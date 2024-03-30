@@ -1,0 +1,28 @@
+
+.navbar {
+    display: flex;
+    width: 22%;
+    justify-content: flex-start;
+
+  }
+  .titulo {
+    display: flex;
+    justify-content: flex-end;
+    width: 20%;
+  }
+.container-nav{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    background-color:rgb(249, 246, 246);
+  }
+.container-nav.dark{
+    display: flex;
+    color:white;
+    align-items: center;
+    justify-content:space-between;
+    background-color:#12121296
+  }
+  .first-letter {
+    color: red;
+  }
